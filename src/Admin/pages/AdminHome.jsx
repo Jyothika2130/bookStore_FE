@@ -1,6 +1,6 @@
 import React from "react";
-import AdminHeader from "../components/AdminHeader";
-import AdminSidebar from "../components/AdminSidebar";
+import AdminHeader from "../Components/AdminHeader";
+import AdminSidebar from "../Components/AdminSideBar";
 import { Card } from "flowbite-react";
 
 const AdminHome = () => {
